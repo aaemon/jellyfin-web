@@ -46,5 +46,6 @@
     "sessionPlayer/plugin",
     "chromecastPlayer/plugin",
     "syncPlay/plugin"
-  ]
+  ],
+  "libraryOrder": []
 }
